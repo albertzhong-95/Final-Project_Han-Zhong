@@ -15,9 +15,9 @@ Those information will be analysed based on gender, major, and race.
 ![](Images/Most%20Common%20Female%20Majors.png)
 ![](Images/Most%20Common%20Male%20Majors.png)
 Because I am a student in Heinz College, I will dig geeper about the information indulstries, compare our graduates information to other graduates from different universities,  
-![Pitt Industries](Images/Common Jobs by Major(Pitt).png)
+![Pitt Industries](Images/Common%20Jobs%20by%20Major(Pitt).png)
 and the overall information in the information indulstry.  
-![Overall Salary](Images/Average&20Salary.png)
+![Overall Salary](Images/Average&20Salary.png)  
 
 # Initial Sketches
 
