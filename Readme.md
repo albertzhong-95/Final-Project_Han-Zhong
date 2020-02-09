@@ -34,3 +34,4 @@ For the data about the information indulstry, I would like to focus on demonstra
   
 # Method and Medium
 I will build my story on Shorthand. For the data visualization, I plan to use Tableau and RawGraphs. Moreover, I plan to find the images I need from Getty Image.
+  
