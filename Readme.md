@@ -1,10 +1,14 @@
 Link to [Final Project](https://albertzhong-95.github.io/Final-Project_Han-Zhong/).  
 # Outline
+  
 *Summary*  
-This Final Project is aimed to tell people the career situation of the graduats frrom CMU.  
+This Final Project is aimed to tell people the story of the graduats from CMU. Including their majors, career situation after they graduated.  
+  
 *Structure*  
-![](Images/Common%20Industries%20by%20Major.png)
-I will focus on the information about those graduates' occupation choices, and their salaries. Those information will be analysed based on gender, major, and race. Because I am a student in Heinz College, I will dig geeper about the information indulstries, compare our graduates information to other graduates from different universities, and the overall information in the information indulstry.  
+I will focus on the information about those graduates' majors,![Majors](Images/Majors%20Awarded.png) occupation choices,![Industries](Images/Common%20Industries%20by%20Major.png) and their average salaries![Salary](Images/Common%20Jobs%20by%20Major.png).  
+Those information will be analysed based on gender, major, and race.![](Images/Most%Common%Female%Majors.png)
+![](Images/Most%20Common%20Male%20Majors.png)
+Because I am a student in Heinz College, I will dig geeper about the information indulstries, compare our graduates information to other graduates from different universities, and the overall information in the information indulstry.  
 
 # Initial Sketches
 
