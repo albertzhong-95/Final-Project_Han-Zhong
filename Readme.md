@@ -1,4 +1,5 @@
 Link to [Final Project](https://albertzhong-95.github.io/Final-Project_Han-Zhong/).  
+# Link to [Part 2](https://github.com/albertzhong-95/Final-Project_Han-Zhong/tree/master/Part2).
 # Outline
   
 *Summary*  
