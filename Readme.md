@@ -1,5 +1,5 @@
 Link to [Final Project](https://albertzhong-95.github.io/Final-Project_Han-Zhong/).  
-# Link to [Part 2](https://github.com/albertzhong-95/Final-Project_Han-Zhong/tree/master/Part2).
+  
 # Outline
   
 *Summary*  
@@ -36,3 +36,45 @@ For the data about the information indulstry, I would like to focus on demonstra
 # Method and Medium
 I will build my story on Shorthand. For the data visualization, I plan to use Tableau and RawGraphs. Moreover, I plan to find the images I need from Getty Image.
   
+# Wireframe  
+We are all graduate students of CMU, so I reckon that the information about CMU graduates and their career prospects should be appealing to us.
+First of all, let’s look into some basic information about those CMU graduates.
+All of the sketches will be replaced.
+**Introduction to CMU Graduates**  
+*Common Industry by Major*  
+![Industries](Images/Industry.jpg)
+*Majors Awarded*  
+![Majors](Images/Majors%20Awarded.png) 
+*Occupations of Heinz Students*  
+![Occupations](Images/Heinz%20Occupation.png)
+  
+**Career Prospects**  
+*Salary*  
+![Salary](Images/Average%20Salary.png)
+*Location*  
+![Location](Images/Highest%20Paying$20Locations.png)
+*Age*  
+![Age](Images/Age%20By%20Gender.png)
+*Gender*  
+![Gender](Images/Gender.png)
+*Working Hours*   
+No Sketches Yet.
+  
+**Conclusion**  
+The highest paying industries of Computer and Information Sciences and Support Services majors, by average wage, are Internet publishing, broadcasting & web search portals, Other consumer goods rental, and Sound recording industries. The highest paying industries of Business majors, by average wage, are Oil & gas extraction, Computer & peripheral equipment manufacturing, and Securities, commodities, funds, trusts & other financial investments.  
+California, Texas, New York, Seattle pay well.  
+For any students who are less than 42, we should have a great development space in our career.  
+We shouldn’t worry too much about the gender imbalance.  
+  
+# Intended Audience
+My target audiences are Heinz students, and those people who are considering to become a student in Heinz. Help them build a more comprehensive and better understanding about Heinz and their future onece they graduate.  
+  
+# Summarize
+I have found four data sets of CMU graduates, Pittsburgh University graduates, MIT graduates, and Georgia Tech graduates on DATA USA. Because majors Heinz students falls into two categories of thoes data set, either information technology, or information management. So I extract all them data which is information technology/information management majors from those four data sets. Use Tableau, RawGraphs, and R to compare those graduates salary, working hours, gender, age grouped by occupations. Then use shorthand to build the story based on my visualized data.  
+  
+# Reference
+Link to [CMU Data](https://datausa.io/profile/university/carnegie-mellon-university#graduates);  
+Link to [MIT Data](https://datausa.io/profile/university/massachusetts-institute-of-technology);  
+Link to [Pitt Data](https://datausa.io/profile/university/university-of-pittsburgh-pittsburgh-campus);  
+Link to [Georgia Tech Data](https://datausa.io/profile/university/georgia-institute-of-technology-main-campus);  
+Link to [Data Folder](https://github.com/albertzhong-95/Final-Project_Han-Zhong/tree/master/data). 
