@@ -1,4 +1,5 @@
 Link to [Final Project](https://albertzhong-95.github.io/Final-Project_Han-Zhong/).  
+Link to [Online Portfolio](https://albertzhong-95.github.io/hanzhong-portfolio/).  
   
 # Outline
   
