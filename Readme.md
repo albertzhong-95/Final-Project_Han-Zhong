@@ -8,9 +8,7 @@ This Final Project is aimed to tell people the story of the graduates from CMU a
 *Structure*  
 I will focus on their majors and career situation after they graduated.
 Information will include graduates' majors,  
-![Majors](Images/Majors%20Awarded.png)  
-occupation choices,  
-![Industries](Images/Common%20Industries%20by%20Major.png)  
+occupation choices,    
 and their average salaries.  
 ![Salary](Images/Common%20Jobs%20by%20Major.png)  
 Those information will be analysed based on gender, major, and race.  
@@ -35,8 +33,13 @@ For the data about the information indulstry, I would like to focus on demonstra
   
 # Method and Medium
 I will build my story on Shorthand. For the data visualization, I plan to use Tableau and RawGraphs. Moreover, I plan to find the images I need from Getty Image.
+
+# User Research
+Link to [user research protocol and findings](https://drive.google.com/file/d/1F4xXjzxW_-qyB6vrO4tP1dBQw5z57y1x/view?usp=sharing).
   
-# Wireframe  
+# Design  
+Link to [StoryBoard](https://carnegiemellon.shorthandstories.com/-learn-more-about-heinz-graduates-occupation-choices-/index.html).  
+  
 We are all graduate students of CMU, so I reckon that the information about CMU graduates and their career prospects should be appealing to us.
 First of all, let’s look into some basic information about those CMU graduates.
 All of the sketches will be replaced.
