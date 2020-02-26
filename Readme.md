@@ -42,21 +42,21 @@ First of all, let’s look into some basic information about those CMU graduates
 All of the sketches will be replaced.
 **Introduction to CMU Graduates**  
 *Common Industry by Major*  
-![Industries](Images/Industry.jpg)
+![Industries](Images/Industry.jpg)  
 *Majors Awarded*  
-![Majors](Images/Majors%20Awarded.png) 
+![Majors](Images/Majors%20Awarded.png)  
 *Occupations of Heinz Students*  
-![Occupations](Images/Heinz%20Occupation.png)
+![Occupations](Images/Heinz%20Occupation.png)  
   
 **Career Prospects**  
 *Salary*  
-![Salary](Images/Average%20Salary.png)
+![Salary](Images/Average%20Salary.png)  
 *Location*  
-![Location](Images/Highest%20Paying$20Locations.png)
-*Age*  
-![Age](Images/Age%20By%20Gender.png)
+![Location](Images/Highest%20Paying%20Locations.png)  
+*Age*    
+![Age](Images/Age%20by%20Gender.png)  
 *Gender*  
-![Gender](Images/Gender.png)
+![Gender](Images/Gender.png)  
 *Working Hours*   
 No Sketches Yet.
   
